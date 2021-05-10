@@ -1,4 +1,4 @@
-gatway:
+gateway:
   req:
     times: 120
     counts: 5
